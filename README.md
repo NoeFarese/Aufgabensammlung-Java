@@ -1,1 +1,1 @@
-Aufgabensammlung in Java vom Basislehrjahr.
+Aufgabensammlung von den Aufgaben im Basislehrjahr mit Java.
